@@ -1,4 +1,4 @@
-package fibonacci
+package myfib
 
 func Fibonacci(n int) int {
 	fib := []int{0, 1}
