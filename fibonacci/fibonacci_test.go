@@ -1,4 +1,4 @@
-package myfib
+package fibonacci
 
 import (
 	"testing"
